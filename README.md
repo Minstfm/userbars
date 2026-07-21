@@ -14,7 +14,7 @@
       <img src="https://raw.githubusercontent.com/Minstfm/userbars/refs/heads/main/tf2.png" alt="Team Fortress 2" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Minstfm/userbars/refs/heads/main/tf2.png" alt="Transformice Adventures" />
+      <img src="https://raw.githubusercontent.com/Minstfm/userbars/refs/heads/main/tfmadv.png" alt="Transformice Adventures" />
     </td>
   </tr>
 </table>
